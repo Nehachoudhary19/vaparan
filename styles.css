@@ -83,10 +83,10 @@ ul.social-network li {
   color: #fff;  
 }  
 .social-network a.socialIcon:hover {  
-  color: #44BCDD;  
+  color:black;  
 }  
 .socialHoverClass {  
-  color: #44BCDD;  
+  color:black;  
 }  
 .social-circle li a {  
   display: inline-block;  

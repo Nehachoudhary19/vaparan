@@ -25,8 +25,7 @@ footer{
 }
 
 .navbar-brand{
-    height:40px;
-    float:center;
+    float:none;
     padding:15px 15px;
     
 }

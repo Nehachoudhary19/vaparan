@@ -15,21 +15,22 @@
     <link rel="stylesheet" type="text/css" href="styles.css"/>
   </head>
   <body>
-  <nav class="navbar navbar-expand-sm bg-dark navbar-dark sticky-top">
+  <nav class="navbar navbar-expand-sm bg-light navbar fixed-top">
   <!-- Brand/logo -->
   <a class="navbar-brand" href="#">
     <img src="img/Screenshot (991).png" alt="logo" style="width:80%;">
   </a>
+    <ul class="nav justify-content-center">
   <form class="form-inline" action="/action_page.php" >
-    <center><input class="form-control mr-sm-2" type="text" placeholder="Search">
-    <button class="btn btn-success" type="submit">Search</button></center>
-  </form>
+    <input class="form-control mr-sm-2" type="text" placeholder="Search">
+    <button class="btn" type="submit">Search</button>
+      </form></ul>
   <!-- Links -->
-  <ul class="navbar-nav" style="align:right;">
+  <ul class="nav justify-content-end">
     <li class="nav-item">
       <button type="btn" href="#">Login/Register</button>
     </li>
-    <li class="nav-item">
+    <li class="nav justify-content-end">
       <button type="btn" href="#">List your button</button>
     </li>
   </ul>

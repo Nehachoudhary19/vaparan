@@ -28,3 +28,12 @@ footer{
     font-size: 15px;
     position:fixed;
 }
+
+.nav-item{
+    text-decoration:none;
+    padding:left:2%;
+    padding-right:2%;
+    padding-top:2%;
+    padding-bottom:2%;
+    color:black;
+}

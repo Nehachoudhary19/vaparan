@@ -21,7 +21,10 @@ background-position: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-
+ul li .nav-item{
+    text-decoration:none;
+    color:black;
+}
 
 footer{
     background-color: black;

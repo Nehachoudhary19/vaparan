@@ -5,18 +5,10 @@ a:hover{
 }
 
 .navbar{
-    background-color:white;
+    background-color:lightgray;
 }
 
-footer{
-    background-color: black;
-    color:gray;
-    padding: 10px 0px;
-    width: 100%;
-    bottom: 0%;
-    font-size: 15px;
-    position:fixed;
-}
+
 
 .nav-item{
     text-decoration:none;
@@ -154,3 +146,13 @@ ul.social-network li {
 ..social-network a:hover {  
 background: #ff304d;  
 }  
+
+footer{
+    background-color: black;
+    color:gray;
+    padding: 10px 0px;
+    width: 100%;
+    bottom: 0%;
+    font-size: 15px;
+    position:fixed;
+}
